@@ -1,3 +1,3 @@
 Project Overview
+- this app is for Bangladeshi HSC candidate students from where students can know about University Admission test information.
 
-https://www.youtube.com/watch?v=LjwXA30d0jE&list=RDUuCq8mtK8J4&index=3
